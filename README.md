@@ -32,6 +32,11 @@ I enjoy creating engaging content that connects with audiences and brings ideas 
 </div>
 
 ---
+> Software Engineering       ███████████████░░░  85%
+> Web Development            ██████████████░░░░  80%
+> Programming                █████████████░░░░░  75%
+> UI / UX                    ████████████░░░░░░  70%
+> Creative Media             ████████████████░░  90%
 
 ## 🚀 My Goal
 
